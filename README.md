@@ -21,17 +21,9 @@ The technologies and tools will be decided during the development process.
 
 👩‍💻 Team Members
 
-Name
+Name : Sumaya Akther Rose   Student ID : 232-115-038
 
-Student ID
-
-Sumaya Akther Rose
-
-232-115-038
-
-Sadia Sharmin Tumpa
-
-232-115-039
+Name : Sadia Sharmin Tumpa  Student ID : 232-115-039
 
 🚧 Project Status
 
